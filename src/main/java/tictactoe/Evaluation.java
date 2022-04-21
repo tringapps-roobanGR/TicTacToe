@@ -8,3 +8,4 @@ public enum Evaluation {
     UnreachableState /* string describes a board, but not a board state that is reachable from a valid game */
 
 }
+ 
